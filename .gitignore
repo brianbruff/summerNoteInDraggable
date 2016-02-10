@@ -1,0 +1,8 @@
+node_modules/
+bower_components/
+typings/
+site.css
+site.css.map
+.idea/
+app/app.js.map
+app/app.js
