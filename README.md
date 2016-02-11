@@ -24,4 +24,5 @@ The simplest solution i could fine **after trying to css my way out of it** is t
 1. npm install
 2. bower install
 3. typings install *only for typescript definitions*
-4. open index.html in browser
+4. compile scss *i used webstorm filewatcher*
+5. open index.html in browser
