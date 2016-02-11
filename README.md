@@ -26,3 +26,7 @@ The simplest solution i could fine **after trying to css my way out of it** is t
 3. typings install *only for typescript definitions*
 4. compile scss *i used webstorm filewatcher*
 5. open index.html in browser
+
+
+##Demo
+[Demo available here](http://brianbruff.github.io/summerNoteInDraggable/)
