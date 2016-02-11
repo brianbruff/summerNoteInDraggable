@@ -30,9 +30,7 @@ function widgetTest(){
 
             widget.resizable();
 
-            element.on('resize', function(){
-                setHeight();
-            });
+            element.resize(setHeight);
 
             setHeight();
 
