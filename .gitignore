@@ -1,10 +1,10 @@
+node_modules/typings/
 node_modules/
+bower_components/jquery/src/
+bower_components/summernote/src/
 bower_components/
-typings/
-site.css
-site.css.map
 .idea/
+typings/
 app/app.js.map
-app/app.js
-app/directives.js
-app/directives.js.map
+*.map
+site.scss

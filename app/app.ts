@@ -4,13 +4,6 @@ module test{
 
     class MainCtrl{
         public name = 'brian';
-        public height = 300;
-
-
-        doubleHeight(){
-            this.height = 2 * this.height;
-
-        }
 
 
     }
