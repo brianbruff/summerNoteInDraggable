@@ -6,3 +6,5 @@ site.css.map
 .idea/
 app/app.js.map
 app/app.js
+app/directives.js
+app/directives.js.map
